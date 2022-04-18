@@ -13,7 +13,6 @@ export default function LinkTree() {
       <Button link='https://www.instagram.com/iamjoshhoward/' name={'Instagram'} icon={['fab', 'instagram']}></Button>
       <Button link='https://twitter.com/iamjoshhoward/' name={'Twitter'} icon={['fab', 'twitter']}></Button>
       <Button link='https://github.com/iamjoshhoward' name={'GitHub'} icon={['fab', 'github']}></Button>
-      <Button link='https://www.linkedin.com/in/iamjoshhoward/' name={'LinkedIn'} icon={['fab', 'linkedin']}></Button>
     </Container>
   )
 }
