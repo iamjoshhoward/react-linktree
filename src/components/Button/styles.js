@@ -30,4 +30,5 @@ export const Name = styled.p`
   color: #fff;
   padding: 15px 0;
   margin-left: 5px;
+  font-family: sans-serif;
 `;
