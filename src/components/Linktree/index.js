@@ -7,7 +7,7 @@ import Header from '../Header';
 export default function LinkTree() {
   return (
     <Container>
-      <Header picture='' title='Joshua Howard' subtitle='I am a technolgy and financial enthusiast.' />
+      <Header title='Joshua Howard' subtitle='I am a technolgy and financial enthusiast.' />
       <Button link='https://richlazypanda.io/' name={'LAZYPANDA NFT Collection'} icon={['fas', 'paw']}></Button>
       <Button link='https://nftturnout.io/' name={'NFTTURNOUT.IO'} icon={['fas', 'rocket']}></Button>
       <Button link='https://www.instagram.com/iamjoshhoward/' name={'Instagram'} icon={['fab', 'instagram']}></Button>
